@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmallApp</string>
+    <string name="edit">Edit user</string>
+    <string name="there_is_no_user_yet">There is no user yet</string>
+    <string name="failed_to_fetch_data">Failed to fetch data: %1$s</string>
+    <string name="back">Back\n</string>
+    <string name="fill_your_data">Fill your data</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+</resources>
