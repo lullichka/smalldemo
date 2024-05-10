@@ -1,6 +1,5 @@
 package com.alekseeva.smallapp.editprofile
 
-import android.util.Log
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.alekseeva.smallapp.model.UserProfile
